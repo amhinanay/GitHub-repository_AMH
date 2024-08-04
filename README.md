@@ -36,31 +36,52 @@ Version 1.45.3
 
 
 
-## Setup/Initialization
+Let's go through the steps to set up and initialize the project:
 
-1. Clone the Project Repository:
-   
-   follow the README.ME 
+1. **Clone the Project Repository:**
 
+   Open a terminal or command prompt and run the following commands:
+   ```sh
    git clone https://github.com/praxxys/qa-engineer-exam
    cd qa-engineer-exam
+   ```
 
-3. Follow the Laravel Installation Guide 
-https://laravel.com/docs/11.x
+2. **Follow the Laravel Installation Guide:**
 
-4. Install Dependencies:
-    composer install
-    npm install
+   Refer to the Laravel documentation [here](https://laravel.com/docs/11.x) for a detailed guide.
 
-cp .env.example .env
-php artisan key:generate
+3. **Install Dependencies:**
 
-5. Database Setup:
-php artisan migrate
+   Run the following commands in the terminal:
+   ```sh
+   composer install
+   npm install
+   ```
 
+4. **Setup Environment File:**
 
+   Copy the example environment file to create your own `.env` file:
+   ```sh
+   cp .env.example .env
+   ```
 
+5. **Generate Application Key:**
 
+   Run the following command to generate a new application key:
+   ```sh
+   php artisan key:generate
+   ```
+
+6. **Database Setup:**
+
+   Make sure your database is set up and configured in your `.env` file. Then run the migrations:
+   ```sh
+   php artisan migrate
+   ```
+
+Your system specifications are more than sufficient to handle this setup.
+
+If you encounter any issues during the setup, feel free to ask for assistance.
 
 
 Processor	AMD Ryzen 7 4800H with Radeon Graphics 2.90 GHz
