@@ -40,7 +40,7 @@ Version 1.45.3
 
 1. Clone the Project Repository:
    
-**i just notice i can't pull the code "https://github.com/praxxys/qa-engineer-exam" because of require software now i know the valuable lesson here!**
+**i just notice i can't pull "https://github.com/praxxys/qa-engineer-exam" because of require software now i know the valuable lesson here!**
 
    git clone https://github.com/praxxys/qa-engineer-exam
    cd qa-engineer-exam
