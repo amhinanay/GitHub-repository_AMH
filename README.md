@@ -40,8 +40,6 @@ Pull https://github.com/praxxys/qa-engineer-exam
 
 Setup the project, refer to [10.x Laravel](https://laravel.com/docs/10.x/installation)
 
-Implementations:
-
 Implement Laravel Tests
 
 Implement Browser Tests [here](https://laravel.com/docs/10.x/dusk)
