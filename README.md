@@ -40,13 +40,10 @@ Pull https://github.com/praxxys/qa-engineer-exam
 
 Setup the project, refer to [10.x Laravel](https://laravel.com/docs/10.x/installation)
 
-Implement Laravel Tests
+Implement Browser [Tests](https://laravel.com/docs/10.x/dusk)
 
-Implement Browser Tests [here](https://laravel.com/docs/10.x/dusk)
+Implement JavaScript Tests via [Playwright](https://playwright.dev/docs/intro)
 
-Implement JavaScript Tests via Playwright
-
-Implement JS Tests 
 
 
 ## System Specifications
