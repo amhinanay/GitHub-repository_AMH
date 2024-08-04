@@ -36,6 +36,8 @@ HINANAY, ALEXANDER M.
 
 ## Setup
 
+**read the README.md**
+
 Pull https://github.com/praxxys/qa-engineer-exam
 
 Setup [10.x Laravel](https://laravel.com/docs/10.x/installation)
