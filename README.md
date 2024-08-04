@@ -4,7 +4,7 @@ HINANAY, ALEXANDER M.
 
 **Google Document:** [here](https://docs.google.com/document/d/1B_3uHDOq65iIYs3ZhEH-dc2QGRysxmSA15Sp_RRv_Fg/edit)
 
-## Software/packages required
+## Software/packages
 - MacOS or Ubuntu OS
   - **doesn't have any backup option**
 
@@ -34,7 +34,7 @@ HINANAY, ALEXANDER M.
 - Playwright
   - Version 1.45.3
 
-## Setup Instructions
+## Setup
 
 Pull https://github.com/praxxys/qa-engineer-exam
 
