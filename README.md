@@ -36,8 +36,6 @@ HINANAY, ALEXANDER M.
 
 ## Setup Instructions
 
-Setup/Initialization:
-
 Pull https://github.com/praxxys/qa-engineer-exam
 
 Setup the project, refer to [10.x Laravel](https://laravel.com/docs/10.x/installation)
@@ -50,7 +48,7 @@ Implement Browser Tests [here](https://laravel.com/docs/10.x/dusk)
 
 Implement JavaScript Tests via Playwright
 
-Implement JS Tests [here](Ihttps://playwright.dev/docs/intro)
+Implement JS Tests 
 
 
 ## System Specifications
