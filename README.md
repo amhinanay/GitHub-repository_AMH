@@ -6,7 +6,7 @@ HINANAY, ALEXANDER M.
 
 ## Software/packages
 - MacOS or Ubuntu OS
-  - **doesn't have any backup option :(**
+  - doesn't have any backup option :(
 
 - Node 18.x
   - v20.16.0
