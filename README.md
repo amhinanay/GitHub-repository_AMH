@@ -39,14 +39,15 @@ Version 1.45.3
 ## Setup/Initialization
 
 1. Clone the Project Repository:
+**i just notice i can't pull the code "https://github.com/praxxys/qa-engineer-exam" because of require software now i know the valuable lesson here!**
 
    git clone https://github.com/praxxys/qa-engineer-exam
    cd qa-engineer-exam
 
-2. Follow the Laravel Installation Guide 
+3. Follow the Laravel Installation Guide 
 https://laravel.com/docs/11.x
 
-3. Install Dependencies:
+4. Install Dependencies:
     composer install
     npm install
 
