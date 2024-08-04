@@ -36,37 +36,22 @@ HINANAY, ALEXANDER M.
 
 ## Setup Instructions
 
-1. **Clone the Project Repository:**
+Setup/Initialization:
 
-   ```sh
-   git clone https://github.com/praxxys/qa-engineer-exam
-   cd qa-engineer-exam
-   ```
+Pull https://github.com/praxxys/qa-engineer-exam
 
-2. **Install Dependencies:**
+Setup the project, refer to [10.x Laravel](https://laravel.com/docs/10.x/installation)
 
-   ```sh
-   composer install
-   npm install
-   ```
+Implementations:
 
-3. **Setup Environment File:**
+Implement Laravel Tests
 
-   ```sh
-   cp .env.example .env
-   ```
+Implement Browser Tests [here](https://laravel.com/docs/10.x/dusk)
 
-4. **Generate Application Key:**
+Implement JavaScript Tests via Playwright
 
-   ```sh
-   php artisan key:generate
-   ```
+Implement JS Tests [here](Ihttps://playwright.dev/docs/intro)
 
-5. **Database Setup:**
-
-   ```sh
-   php artisan migrate
-   ```
 
 ## System Specifications
 
