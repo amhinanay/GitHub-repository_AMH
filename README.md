@@ -36,7 +36,7 @@ HINANAY, ALEXANDER M.
 
 ## Setup
 
-**read the README.md**
+QA Engineer Exam README.md.
 
 Pull https://github.com/praxxys/qa-engineer-exam
 
