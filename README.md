@@ -38,7 +38,7 @@ HINANAY, ALEXANDER M.
 
 Pull https://github.com/praxxys/qa-engineer-exam
 
-Setup the project, refer to [10.x Laravel](https://laravel.com/docs/10.x/installation)
+Setup [10.x Laravel](https://laravel.com/docs/10.x/installation)
 
 Implement Browser [Tests](https://laravel.com/docs/10.x/dusk)
 
