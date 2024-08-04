@@ -58,7 +58,6 @@ php artisan key:generate
 5. Database Setup:
 php artisan migrate
 
-Ps. I didn’t follow the required version and os but followed the latest version instead because the exam is the **QA Engineering exam 2023.** But once the company hired me **I will follow their required version and so on.** Thanks, for viewing my assessment! If I don't pass because I didn't follow the standard basis I still say thank you for this exam I learn more web/application software. I will adapt this additional knowledge to my skills. And contribute to the new web development process. 
 
 
 
