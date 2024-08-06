@@ -36,8 +36,6 @@ HINANAY, ALEXANDER M.
 
 ## Setup
 
-## Setup
-
 ### 1. Clone the Repository
 Clone the repository using Git:
 ```bash
