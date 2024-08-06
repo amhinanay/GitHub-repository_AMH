@@ -36,15 +36,43 @@ HINANAY, ALEXANDER M.
 
 ## Setup
 
-QA Engineer Exam README.md
+## Setup
 
-Pull https://github.com/praxxys/qa-engineer-exam
+### 1. Clone the Repository
 
-Setup [10.x Laravel](https://laravel.com/docs/10.x/installation)
+Clone the repository using Git:
 
-Implement Browser [Tests](https://laravel.com/docs/10.x/dusk)
+```bash
+git clone https://github.com/praxxys/qa-engineer-exam
+cd qa-engineer-exam
+```
 
-Implement JavaScript Tests via [Playwright](https://playwright.dev/docs/intro)
+### 2. Setup Laravel
+
+Install Laravel 10.x and set up the project:
+
+```bash
+composer create-project laravel/laravel:^10.0 example-app
+cd example-app
+php artisan serve
+```
+
+### 3. Install Playwright
+
+Initialize a new Playwright project:
+
+```bash
+npm init playwright@latest
+```
+
+### 4. Run Playwright Tests
+
+Execute the Playwright tests:
+
+```bash
+npx playwright test
+```
+
 
 
 
