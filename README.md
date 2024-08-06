@@ -39,41 +39,42 @@ HINANAY, ALEXANDER M.
 ## Setup
 
 ### 1. Clone the Repository
-
 Clone the repository using Git:
-
 ```bash
 git clone https://github.com/praxxys/qa-engineer-exam
 cd qa-engineer-exam
 ```
-
-### 2. Setup Laravel
-
 Install Laravel 10.x and set up the project:
-
 ```bash
 composer create-project laravel/laravel:^10.0 example-app
 cd example-app
 php artisan serve
 ```
+### 2. Implement Laravel Tests
+Create at least 3 browser tests using Laravel Dusk
+```bash 
+composer require laravel/dusk --dev
+```
+```bash 
+php artisan dusk:install
+```
+```bash
+php artisan dusk:make test-1
+php artisan dusk:make test-2
+php artisan dusk:make test-3
+```
+
 
 ### 3. Install Playwright
-
-Initialize a new Playwright project:
-
 ```bash
 npm init playwright@latest
 ```
-
-### 4. Run Playwright Tests
-
-Execute the Playwright tests:
-
 ```bash
 npx playwright test
 ```
-
-
+```bash
+npx playwright test --ui
+```
 
 
 ## System Specifications
